@@ -1,3 +1,3 @@
 # YoutubeDownloader
 Personal project to learn python programming
-Downloads YouTube videos through given URL
+Downloads YouTube videos through the given URL
